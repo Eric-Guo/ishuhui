@@ -22,7 +22,9 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+    $ ishuhui download url
+
+url替换为鼠绘漫画对应的地址，如"http://www.ishuhui.com/post/375782"
 
 ## Development
 
@@ -32,10 +34,9 @@ To install this gem onto your local machine, run `bundle exec rake install`. To 
 
 ## Contributing
 
-Bug reports and pull requests are welcome on GitHub at https://github.com/[USERNAME]/ishuhui.
+Bug reports and pull requests are welcome on GitHub at https://github.com/alexshawn/ishuhui.
 
 
 ## License
 
 The gem is available as open source under the terms of the [MIT License](http://opensource.org/licenses/MIT).
-
